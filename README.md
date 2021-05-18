@@ -3,8 +3,8 @@ Evaluating Google Translate for select language pairs using chrF++ metric
 Please run ttest.py for a statistical evaluation of the translated
 chrF++ scores. The example commands below will run on the hypothesis
 translation files `*hyp.en` and the reference translations `*short.en`  
-**Parameters**
 
+**Parameters**
 | Parameter flag | explanation                                        |
 |:---------------|:---------------------------------------------------|
 | -srcl1         | source language 1; Required                        |
